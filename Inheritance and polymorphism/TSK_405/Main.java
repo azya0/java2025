@@ -1,6 +1,8 @@
 package TSK_405;
 
 public class Main {
+    // Ответ в answer.md
+    
     class A {
         public static void method() {
             System.out.println("A's static method");
