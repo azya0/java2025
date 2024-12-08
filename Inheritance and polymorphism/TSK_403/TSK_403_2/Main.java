@@ -22,7 +22,7 @@ public class Main {
             super.method();
         }
     }
-    
+
     public static void main(String[] args) {
         Main main = new Main();
         C obj = main.new C();
