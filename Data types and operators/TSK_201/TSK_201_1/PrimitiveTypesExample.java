@@ -1,4 +1,4 @@
-package TSK_201;
+package TSK_201.TSK_201_1;
 
 public class PrimitiveTypesExample {
     byte byteValue = 100; // 1 байт (8 бит) - знак
