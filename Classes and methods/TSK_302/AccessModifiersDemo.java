@@ -1,15 +1,9 @@
 package TSK_302;
 
 public class AccessModifiersDemo {
-    // Public variable
     public String publicVar = "public";
-    
-    // Private variable
     private String privateVar = "private";
-    
-    // Protected variable
     protected String protectedVar = "protected";
-    
     String packagePrivateVar = "package-private";
 
     public void displayPublic() {
